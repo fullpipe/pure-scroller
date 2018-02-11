@@ -1,0 +1,30 @@
+{
+  "name": "pure-scroller",
+  "version": "1.0.0",
+  "description": "Pure scroller logic",
+  "main": "build/scroller.js",
+  "types" : "build/scroller.d.ts",
+  "scripts": {
+    "check": "gts check",
+    "compile": "tsc -p .",
+    "fix": "gts fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullpipe/pure-scroller.git"
+  },
+  "keywords": [
+    "scroll",
+    "scroller"
+  ],
+  "author": "Eugene Bravov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fullpipe/pure-scroller/issues"
+  },
+  "homepage": "https://github.com/fullpipe/pure-scroller#readme",
+  "devDependencies": {
+    "gts": "^0.5.3",
+    "typescript": "^2.7.1"
+  }
+}
