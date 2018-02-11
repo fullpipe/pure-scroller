@@ -1,5 +1,5 @@
-# pure-scroller
-Pure scroller logic.
+# Pure scroller
+Pure scroller logic for scrollers.
 
 ## Installation 
 ```sh
@@ -7,7 +7,6 @@ npm install pure-scroller --save
 ```
 
 ## Usage
-### TypeScript
 ```typescript
 import { Scroller } from 'pure-scroller';
 @Component({
