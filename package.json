@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Pure scroller logic",
   "main": "build/scroller.js",
-  "types" : "build/scroller.d.ts",
+  "types": "build/scroller.d.ts",
   "scripts": {
     "check": "gts check",
     "compile": "tsc -p .",
